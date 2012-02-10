@@ -3,10 +3,11 @@ Tutorial for using the Kynetx Sky API
 
 ## Requirements
 You need the following:
- * Chrome Browser
- * Kynetx for Google Chrome (extension)
- * Developer account from http://apps.kynetx.com/apps
- * Kynetx Sky Event Console http://github.com/kynetx/sky_event_console
+
+ - Chrome Browser
+ - Kynetx for Google Chrome (extension)
+ - Developer account from http://apps.kynetx.com/apps
+ - Kynetx Sky Event Console http://github.com/kynetx/sky_event_console
 
 ## Install the ruleset
 Log in to your Kynetx developer account and create a new ruleset.
